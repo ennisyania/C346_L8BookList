@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "C346_L8BookList",
-    "slug": "C346_L8BookList",
+    "name": "C346_L8Demo",
+    "slug": "C346_L8Demo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
